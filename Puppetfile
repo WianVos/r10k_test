@@ -1,8 +1,8 @@
 forge "http://forge.puppetlabs.com"
 
-mod 'puppetlabs/stdlib',
+mod 'stdlib',
   :git => 'https://github.com/puppetlabs/puppetlabs-stdlib.git'
-mod 'puppetlabs/vcsrepo',
+mod 'vcsrepo',
   :git => 'https://github.com/puppetlabs/puppetlabs-vcsrepo.git' 
 mod 'pe_gem',
   :git => 'https://github.com/puppetlabs/puppetlabs-pe_gem.git'
